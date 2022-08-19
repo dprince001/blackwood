@@ -131,7 +131,7 @@ nav:after {
 
 .title {
     font-size: 6.4rem;
-    margin-top: 30px;
+    margin-top: 80px;
     font-weight: 300;
     margin-bottom: .6em;
     line-height: 1.2;
@@ -740,5 +740,11 @@ footer > p {
     }
     .sixth-text h2 {
         font-size: 2.5rem;
+    }
+    .food-box-img {
+        display: none;
+    }   
+    .food-box-text {
+        flex-basis: 100%;
     }
 }
